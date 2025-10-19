@@ -1,4 +1,4 @@
-## Hi there 👋
+## 결점을 보안하는 개발자 LEE MYEONG GYU 입니다
 
 <!--
 **leem5514/leem5514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
