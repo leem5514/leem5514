@@ -7,7 +7,7 @@
 ## 🗂️ Projects
 
 | 프로젝트명 | 설명 | 기간 | Repository |
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|:--|
 | 🏢 POT (Server)  | HR/사내 웹 기반 그룹웨어 server  | 2024.09 ~ 2024.11 | [POT_BE](https://github.com/leem5514/POT_BE) |
 | 🏢 POT (Client)  | HR/사내 웹 기반 그룹웨어 client  | 2024.09 ~ 2024.11 | [POT_FE](https://github.com/leem5514/POT_FE) |
 | 🧩 NoExit (Server) | 방탈출게임 통합 플랫폼 server | 2024.07 ~ 2024.09 | [NoExit](https://github.com/leem5514/NoExit) |
