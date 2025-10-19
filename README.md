@@ -1,4 +1,5 @@
 ## 결점을 보안하는 개발자 LEE MYEONG GYU 입니다
+<strong>안녕하세요. 개발을 진행함에 있어서 저의 결점을 찾고 이를 보안하기 위해 노력하고 있습니다. 나아가 한명의 개발자로 성장하고 싶습니다.</strong>
 
 <!--
 **leem5514/leem5514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
