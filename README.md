@@ -1,8 +1,20 @@
 ## 결점을 보하는 개발자 LEE MYEONG GYU 입니다
 안녕하세요. 개발을 진행함에 있어서 저의 결점을 찾고 이를 보완하기 위해 노력하고 있습니다. 저만의 성장 라이브러리를 발전시키며 나아가 한명의 개발자로 성장하고 싶습니다.
 </br>
-- 🎯 **백엔드 중심**으로 공부·개발하고 있습니다.
-- 🤝 **팀 프로젝트**를 통해 협업 규칙을 맞추고 함께 성장합니다.
+ 🎯 **백엔드 중심**으로 공부·개발하고 있습니다.
+ 🤝 **팀 프로젝트**를 통해 협업 규칙을 맞추고 함께 성장합니다. 
+ 
+## 🗂️ Projects
+| 프로젝트명 | 설명 | 기간 | Repository |
+|:--:|:--:|:--:|:--:|
+| &nbsp;🏢 POT (Server)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;HR/사내 웹 기반 그룹웨어&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.09 ~ 2024.11&nbsp;&nbsp; | &nbsp;&nbsp;[POT_BE](https://github.com/leem5514/POT_BE)&nbsp;&nbsp; |
+| &nbsp;🏢 POT (Client)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;HR/사내 웹 기반 그룹웨어&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.09 ~ 2024.11&nbsp;&nbsp; | &nbsp;&nbsp;[POT_FE](https://github.com/leem5514/POT_FE)&nbsp;&nbsp; |
+| &nbsp;🧩 NoExit (Server)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;방탈출게임 통합 플랫폼&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.07 ~ 2024.09&nbsp;&nbsp; | &nbsp;&nbsp;[NoExit](https://github.com/leem5514/NoExit)&nbsp;&nbsp; |
+| &nbsp;🧩 NoExit (Client)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;방탈출게임 통합 플랫폼&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.07 ~ 2024.09&nbsp;&nbsp; | &nbsp;&nbsp;[NoExit_FE](https://github.com/leem5514/NoExit_FE)&nbsp;&nbsp; |
+| &nbsp;📚 BookHitList&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;중고도서 거래 통합 플랫폼&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2023.07 ~ 2023.09&nbsp;&nbsp; | &nbsp;&nbsp;[bookhitlistProject](https://github.com/leem5514/bookhitlistProject)&nbsp;&nbsp; |
+
+
+
 
 ## 🧰 Skills
 
