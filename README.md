@@ -7,10 +7,10 @@
 ## 🗂️ Projects
 | 프로젝트명 | 설명 | 기간 | Repository |
 |:--:|:--:|:--:|:--:|
-| &nbsp;🏢 POT (Server)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;HR/사내 웹 기반 그룹웨어&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.09 ~ 2024.11&nbsp;&nbsp; | &nbsp;&nbsp;[POT_BE](https://github.com/leem5514/POT_BE)&nbsp;&nbsp; |
-| &nbsp;🏢 POT (Client)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;HR/사내 웹 기반 그룹웨어&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.09 ~ 2024.11&nbsp;&nbsp; | &nbsp;&nbsp;[POT_FE](https://github.com/leem5514/POT_FE)&nbsp;&nbsp; |
-| &nbsp;🧩 NoExit (Server)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;방탈출게임 통합 플랫폼&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.07 ~ 2024.09&nbsp;&nbsp; | &nbsp;&nbsp;[NoExit](https://github.com/leem5514/NoExit)&nbsp;&nbsp; |
-| &nbsp;🧩 NoExit (Client)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;방탈출게임 통합 플랫폼&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.07 ~ 2024.09&nbsp;&nbsp; | &nbsp;&nbsp;[NoExit_FE](https://github.com/leem5514/NoExit_FE)&nbsp;&nbsp; |
+| &nbsp;🏢 POT (Server)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;HR/사내 웹 기반 그룹웨어 server&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.09 ~ 2024.11&nbsp;&nbsp; | &nbsp;&nbsp;[POT_BE](https://github.com/leem5514/POT_BE)&nbsp;&nbsp; |
+| &nbsp;🏢 POT (Client)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;HR/사내 웹 기반 그룹웨어 client&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.09 ~ 2024.11&nbsp;&nbsp; | &nbsp;&nbsp;[POT_FE](https://github.com/leem5514/POT_FE)&nbsp;&nbsp; |
+| &nbsp;🧩 NoExit (Server)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;방탈출게임 통합 플랫폼 server&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.07 ~ 2024.09&nbsp;&nbsp; | &nbsp;&nbsp;[NoExit](https://github.com/leem5514/NoExit)&nbsp;&nbsp; |
+| &nbsp;🧩 NoExit (Client)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;방탈출게임 통합 플랫폼 client&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2024.07 ~ 2024.09&nbsp;&nbsp; | &nbsp;&nbsp;[NoExit_FE](https://github.com/leem5514/NoExit_FE)&nbsp;&nbsp; |
 | &nbsp;📚 BookHitList&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;중고도서 거래 통합 플랫폼&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;2023.07 ~ 2023.09&nbsp;&nbsp; | &nbsp;&nbsp;[bookhitlistProject](https://github.com/leem5514/bookhitlistProject)&nbsp;&nbsp; |
 
 
