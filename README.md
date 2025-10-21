@@ -58,6 +58,20 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 📫 Contact
+
+<a href="mailto:leem5514@naver.com" title="leem5514@naver.com" aria-label="Email to leem5514@naver.com">
+  
+  <img src="https://cdn.simpleicons.org/naver/03C75A/ffffff" height="18" alt="Naver" margin-right="20">&nbsp;&nbsp;
+  leem5514@naver.com
+</a>
+
+
+
+
+
+
+
 <!--
 **leem5514/leem5514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
