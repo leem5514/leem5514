@@ -9,15 +9,16 @@
 
 | 프로젝트명 | 설명 | 기간 | Repository |
 |:--:|:--|:--:|:--|
+| 🪙 Auction (Server)  | 통합 경매장 & 관리운영(MOS) 서비스 server  | 2025.11 ~ 2026.03 | [Auction_BE](https://github.com/leem5514/Auction_BE) |
+| 🪙 Auction (Client)  | 통합 경매장 & 관리운영(MOS) 서비스 client  | 2024.09 ~ 2024.11 | [Auction_FE](https://github.com/leem5514/Auction_FE) |
 | 🏢 POT (Server)  | HR / 사내 웹 기반 그룹웨어 server  | 2024.09 ~ 2024.11 | [POT_BE](https://github.com/leem5514/POT_BE) |
 | 🏢 POT (Client)  | HR / 사내 웹 기반 그룹웨어 client  | 2024.09 ~ 2024.11 | [POT_FE](https://github.com/leem5514/POT_FE) |
 | 🧩 NoExit (Server) | 방탈출게임 통합 플랫폼 server | 2024.07 ~ 2024.09 | [NoExit_BE](https://github.com/leem5514/NoExit_BE) |
 | 🧩 NoExit (Client) | 방탈출게임 통합 플랫폼 client | 2024.07 ~ 2024.09 | [NoExit_FE](https://github.com/leem5514/NoExit_FE) |
-| 📚 BookHitList     | 중고도서 거래 통합 플랫폼 server & client | 2023.07 ~ 2023.09 | [bookhitlist](https://github.com/leem5514/bookhitlistProject) |
 </br>
 
 
-
+통합 경매장 & 관리운영(MOS) 서비스 백엔드
 
 ## 🧰 Skills
 
